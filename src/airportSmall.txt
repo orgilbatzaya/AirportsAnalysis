@@ -1,0 +1,30 @@
+ATL$June$2003$216$11$5843$30060$23974$Atlanta, GA: Hartsfield-Jackson Atlanta International
+BOS$June$2003$138$14$1623$9639$7875$Boston, MA: Logan International
+BWI$June$2003$29$11$1245$8287$6998$Baltimore, MD: Baltimore/Washington International Thurgood Marshall
+CLT$June$2003$73$11$1562$8670$7021$Charlotte, NC: Charlotte Douglas International
+DCA$June$2003$74$13$1100$6513$5321$Washington, DC: Ronald Reagan Washington National
+DEN$June$2003$34$13$1611$11691$10024$Denver, CO: Denver International
+ATL$July$2003$484$11$7452$30875$22868$Atlanta, GA: Hartsfield-Jackson Atlanta International
+BOS$July$2003$226$14$1710$9972$8033$Boston, MA: Logan International
+BWI$July$2003$57$11$1679$8611$6855$Baltimore, MD: Baltimore/Washington International Thurgood Marshall
+CLT$July$2003$163$11$1895$8965$6883$Charlotte, NC: Charlotte Douglas International
+DCA$July$2003$181$13$1260$6695$5241$Washington, DC: Ronald Reagan Washington National
+DEN$July$2003$71$13$1753$12702$10869$Denver, CO: Denver International
+ATL$May$2004$457$11$8802$34896$25565$Atlanta, GA: Hartsfield-Jackson Atlanta International
+BOS$May$2004$225$16$2489$10985$8262$Boston, MA: Logan International
+BWI$May$2004$49$12$2037$8902$6779$Baltimore, MD: Baltimore/Washington International Thurgood Marshall
+CLT$May$2004$80$11$1291$8857$7479$Charlotte, NC: Charlotte Douglas International
+DCA$May$2004$138$15$1476$7615$5976$Washington, DC: Ronald Reagan Washington National
+DEN$May$2004$106$14$2012$12820$10653$Denver, CO: Denver International
+ATL$June$2006$693$13$8470$33787$24447$Atlanta, GA: Hartsfield-Jackson Atlanta International
+BOS$June$2006$367$13$3963$10746$6397$Boston, MA: Logan International
+BWI$June$2006$92$14$2582$9086$6371$Baltimore, MD: Baltimore/Washington International Thurgood Marshall
+CLT$June$2006$229$11$2558$9366$6550$Charlotte, NC: Charlotte Douglas International
+DCA$June$2006$271$14$2078$7794$5375$Washington, DC: Ronald Reagan Washington National
+DEN$June$2006$263$15$4082$20096$15675$Denver, CO: Denver International
+ATL$May$2008$173$15$5217$34572$29152$Atlanta, GA: Hartsfield-Jackson Atlanta International
+BOS$May$2008$156$14$1914$10276$8198$Boston, MA: Logan International
+BWI$May$2008$28$14$1162$8988$7788$Baltimore, MD: Baltimore/Washington International Thurgood Marshall
+CLT$May$2008$111$13$1698$10996$9179$Charlotte, NC: Charlotte Douglas International
+DCA$May$2008$120$13$1185$7435$6118$Washington, DC: Ronald Reagan Washington National
+DEN$May$2008$186$16$4782$20765$15765$Denver, CO: Denver International
